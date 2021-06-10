@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ![Tomasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=remotomasi&show_icons=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotomasi&layout=compact&theme=blueberry)](https://github.com/remotomasi/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=remotomasi)](https://github.com/remotomasi/github-profile-trophy)
+
+
 
 
 

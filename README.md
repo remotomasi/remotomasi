@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![Tomasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=remotomasi&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotomasi&layout=compact&theme=blueberry)](https://github.com/remotomasi/github-readme-stats)
+![Tomasi's GitHub stats](https://github-readme-stats.vercel-sigma-five.app/api?username=remotomasi&show_icons=true&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=remotomasi&layout=compact&theme=blueberry)](https://github.com/remotomasi/github-readme-stats)
 
 ### Programming languages
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
